@@ -84,10 +84,5 @@ The Restaurant Management System will start, and you can begin placing orders th
 
 ---
 
-## 👩‍💻 Author
-
-**Pari Arora**
-
-B.Tech CSE (Data Science)
-
-Guru Tegh Bahadur Institute of Technology (GTBIT)
+## 👩‍💻 This was made as a part of 12th standard project.
+Feel free to fork the repository, suggest improvements, or contribute through pull requests.
