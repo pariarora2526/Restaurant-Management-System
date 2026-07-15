@@ -1,4 +1,4 @@
-# 🍽️ Restaurant Management System
+# 🍽️ Yummy in the Tummy - Restaurant Management System
 
 ## 📖 Overview
 
