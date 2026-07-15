@@ -85,4 +85,6 @@ The Restaurant Management System will start, and you can begin placing orders th
 ---
 
 ## 👩‍💻 This was made as a part of 12th standard project.
-Feel free to fork the repository, suggest improvements, or contribute through pull requests.
+## 🤝 Contributing
+
+Contributions are always welcome! If you have ideas for improving this project or adding new features, feel free to fork the repository, create a new branch, and submit a pull request.
