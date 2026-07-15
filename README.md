@@ -46,16 +46,33 @@ Restaurant-Management-System/
 
 ## 🚀 How to Run
 
-1. Install Python 3.
-2. Download or clone this repository.
-3. Open the project folder.
-4. Run:
+1. ## Installation
+
+Follow these steps to set up and run the project on your local system:
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/pariarora2526/Restaurant-Management-System.git
+```
+
+### 2. Navigate to the Project Directory
+
+```bash
+cd Restaurant-Management-System
+```
+
+### 3. Ensure Python is Installed
+
+Make sure Python 3.x is installed on your system.
+
+### 4. Run the Application
 
 ```bash
 python class12_restaurant.py
 ```
 
----
+The Restaurant Management System will start, and you can begin placing orders through the console interface.
 
 ## 🎯 Future Enhancements
 
